@@ -11,4 +11,6 @@ class Library {
     }
 }
 
-module.exports = {Library}
+module.exports = {
+    Library
+}
